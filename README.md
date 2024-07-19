@@ -1,3 +1,3 @@
 # NBA_Prediction_Model
 
-Using scraped data from basketall reference, and identified predictors to train a ML model to predict nba games outcomes
+Scraped data from basketall reference using Python and Playwright and parsed using Beautiful Soup and Pandas. Identified key predictors for training a machine learning model for forecasting NBA game outcomes.
